@@ -34,4 +34,14 @@
 * C++
 
 ## ¿Cómo Comunicarnos con el Computador?
-*Para esto necesitamos la ayuda de traductores, encargados de pasar el lenguaje de alto nivel comprensible para el programador a lenguaje de máquina ( 0,1)
+*Para esto necesitamos la ayuda de traductores, encargados de pasar el lenguaje de alto nivel comprensible para el programador a lenguaje de máquina ( 0,1).
+#### Compiladores:
+*Lee el código fuente escrito en un determinado lenguaje de programación, lo interpreta, comprueba la sintaxis y traduce toda la seria de instrucciones a lenguaje de maquina generando un archivo ejecutable.
+<img width="662" height="395" alt="Captura de pantalla 2026-10-22 234150" src="https://github.com/user-attachments/assets/2812b105-1f5e-4290-b608-bc3b2269e1be" />
+
+#¿QUÉ ES PROGRAMACIÓM??
+* Es la ciencia que se encarga de indicarle al computador que hacer mediante pasos secuenciales y lógicos. Estos pasos se llaman ***Algoritmos*** los cuales se escriben en varios de ***lenguajes de programacion***.
+
+<img width="636" height="456" alt="image" src="https://github.com/user-attachments/assets/59fe3717-0339-46d1-906f-dd5f48c4627d" />
+
+
