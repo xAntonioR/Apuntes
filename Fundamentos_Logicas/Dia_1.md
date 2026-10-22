@@ -9,7 +9,7 @@
 
 * Es una serie de pasos escritos en lenguaje de alto nivel que son interpretados y/o compilados a lenguaje de maquina que sirven para que el computador pueda reconocerlos y seguirlos.
   #### Ejemplo:
-  ```PY
+```PY
     def preparar_cafe():
     print("1. Encender máquina")
     
@@ -28,11 +28,8 @@
     if __name__ == "__main__":
     preparar_cafe()
 ```
-
-### Algunos Lenguajes de Alto Nivel:
+#### Algunos Ejemplos de Lenguajes de Alto Nivel:
 * Java
-*  Ptyhon
-*  C+
-*  Typescrip
+* Python
+* C++
 
-## 
