@@ -32,3 +32,14 @@ Ideal para organizar notas o pasos a seguir en un proyecto:
 ```Markdown
 * Elemento 1
 * Elemento 2
+```
+* Listas numerada: Usar números seguidos en un punto
+```Markdown
+1. Primer paso
+2. Segundo paso
+```
+* Tareas Interactivas (Checklist): Excelente para organizar pendientes en github.
+```Markdown
+- [X] Tarea Completada
+- [ ] Tarea Pendiente
+```
