@@ -15,7 +15,7 @@ Tachado: ~~texto tachado~~ -> texto tachado
 Combinados: ***negrita y cursiva*** -> negrita y cursiva
 ```
 
-# *Espacios, saltos de línea y líneas divisoras*
+# *ESPACIOS, SALTOS DE LINEA Y LINEAS DIVISORAS*
 Para controlar la estructura visual de tu texto:
 ```Markdown
 * Salto de línea / Espacio vertical: <br> (genera un salto de línea limpio, muy útil para separar párrafos o elementos que Markdown junta por defecto).
@@ -25,3 +25,7 @@ Para controlar la estructura visual de tu texto:
 * Línea divisoria (Horizontal Rule): Tres guiones (---), asteriscos (*) o guiones bajos (___`) en una línea vacía crean una línea horizontal:
 ```
 ---
+
+# *LISTAS Y TAREAS (CHECK LIST)*
+Ideal para organizar notas o pasos a seguir en un proyecto:
+* Listas con viñetas: Usar asteriscos *, guiones - o signos mas +
