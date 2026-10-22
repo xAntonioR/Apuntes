@@ -1,7 +1,7 @@
 # TITULOS Y ENCABEZADOS
-```Mardown
+```Markdown
 # Título principal (H1)
 ## Subtítulo (H2)
-### Sección
+### Sección (H3)
 #### Subseccioón (H4)
 ```
