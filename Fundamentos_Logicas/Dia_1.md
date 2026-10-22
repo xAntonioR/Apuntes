@@ -2,7 +2,8 @@
 ## ¿Qué es una Computadora?
 
 * Dispositivo para ejecutar programas a gran velocidad siempre y cuando los pasos compilados sean dados de forma precisa
-  ![150127_codigo_computador_cronologia_finde_dv](https://github.com/user-attachments/assets/455f3746-0a01-4cd0-adcd-16c1ba3300d1)
+<img width="304" height="304" alt="150127_codigo_computador_cronologia_finde_dv" src="https://github.com/user-attachments/assets/51828e64-b87f-4c55-9e61-7c62b5dad29b" />
+
 
 ## ¿Para qué sirve Algoritmo? 
 
