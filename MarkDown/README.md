@@ -49,6 +49,10 @@ Ideal para organizar notas o pasos a seguir en un proyecto:
 * Imágenes: ![Texto alternativo si no carga](https://url-de-la-imagen.png)
 * Citas (Blockquotes): Usa el símbolo mayor que (>) al inicio de la línea.
 ```Markdown
-> Esto es una cita destacada o nota importante:
+> Esto es una cita destacada o nota importante
 ```
-  
+
+# *ENLACE DE VIDEO<br>*
+Tráiler de diseño: ORA por OneTap/ Valorant <br>
+[![Alt text](<iframe width="560" height="315" src="https://www.youtube.com/embed/Mmw-PpWhKFg?si=jZnlj8i1w-fa6_fE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>) <br> <br>
+
