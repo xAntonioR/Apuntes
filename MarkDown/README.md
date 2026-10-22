@@ -60,5 +60,26 @@ Ideal para organizar notas o pasos a seguir en un proyecto:
 * Otra alternativa Copiar y pegar (Ctrl+c - Ctrl+v): <br>
 <img width="536" height="446" alt="descarga (1)" src="https://github.com/user-attachments/assets/e699f0d2-7bf2-4ced-84c9-20875ccb9a67" />
 
+# *PRUEBA VISUAL DE COFIGO*
+```HTML
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="styles.css">
+
+        <title>Routes</title>
+    </head>
+    <div>
+        <div>
+    <a href="https://www.youtube.com/watch?v=73VARxr1_i0" target="_blank"><img title= "The Goat" width="400" height="600" class="box simon" src="../Image/Simonc.jpg"></a> 
+    <a href="https://www.youtube.com/watch?v=2lSzlVS5pi4" title="La Creatura" target="_blank" alt="Aquí yace origime"> <img width="400" height="600" class=" box origime" src="img_r/orihime.jpg"></a> 
+    <a href="https://www.youtube.com/watch?v=M1PurvnqTjc" target="_blank" alt="Emilia bailando bien tierno :3">
+        <img title="Perfection" width="400" height="600" class=" box emilia" src="../Emilia.jpg"></a>
+    </div>
+    </body> 
+</html>
+```
+
 
 
