@@ -6,3 +6,11 @@ Para crear títulos de diferentes tamaños, usa el símbolo numeral (#) seguido 
 ### Sección (H3)
 #### Subseccioón (H4)
 ```
+
+#FORMATO DE TEXTO
+```Markdown
+Negrita: **texto en negrita** o _texto en negrita_ -> texto en negrita
+Cursiva: *texto en cursiva* o _texto en cursiva_ -> texto en cursiva
+Tachado: ~~texto tachado~~ -> texto tachado
+Combinados: ***negrita y cursiva*** -> negritay cursiva
+```
