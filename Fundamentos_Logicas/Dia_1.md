@@ -1,9 +1,7 @@
 # FUNDAMENTOS DE LA PROGRAMACION 
 ## ¿Qué es una Computadora?
 
-* Dispositivo para ejecutar programas a gran velocidad siempre y cuando los pasos compilados sean dados de forma precisa.
-
-
+* Dispositivo para ejecutar programas a gran velocidad siempre y cuando los pasos compilados sean dados de forma precisa
   
 ## ¿Para qué sirve Algoritmo? 
 
