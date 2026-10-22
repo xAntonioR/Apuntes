@@ -29,3 +29,6 @@ Para controlar la estructura visual de tu texto:
 # *LISTAS Y TAREAS (CHECK LIST)*
 Ideal para organizar notas o pasos a seguir en un proyecto:
 * Listas con viñetas: Usar asteriscos *, guiones - o signos mas +
+```Markdown
+* Elemento 1
+* Elemento 2
