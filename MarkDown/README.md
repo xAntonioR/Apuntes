@@ -45,10 +45,10 @@ Ideal para organizar notas o pasos a seguir en un proyecto:
 ```
 
 # *ENLACES, IMAGENES Y CITAS*
-```Markdown
 * Enlaces: [Texto visible del enlace](https://tu-enlace.com)
 * Imágenes: ![Texto alternativo si no carga](https://url-de-la-imagen.png)
 * Citas (Blockquotes): Usa el símbolo mayor que (>) al inicio de la línea.
+```Markdown
+> Esto es una cita destacada o nota importante:
 ```
-
   
