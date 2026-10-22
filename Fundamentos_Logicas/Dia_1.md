@@ -9,4 +9,10 @@
 
 * Es una serie de pasos escritos en lenguaje de alto nivel que son interpretados y/o compilados a lenguaje de maquina que sirven para que el computador pueda reconocerlos y seguirlos.
 
+### Algunos Lenguajes de Alto Nivel:
+1. Java
+2. Ptyhon
+3. C+
+4. Typescrip
+
 ## 
