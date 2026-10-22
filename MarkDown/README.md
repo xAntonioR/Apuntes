@@ -56,4 +56,4 @@ Ideal para organizar notas o pasos a seguir en un proyecto:
 *K/DA - FIRESTARTER* <br>
 [![Alt text](https://img.youtube.com/vi/Mmw-PpWhKFg/0.jpg)](https://www.youtube.com/watch?v=Mmw-PpWhKFg&list=RDMmw-PpWhKFg&start_radio=1) <br> <br>
 
-![Imagenes/Captura de pantalla](https://github.com/xAntonioR/Apuntes/blob/main/Imagenes/Captura%20de%20pantalla%202026-02-26%20161809.png?raw=true.png)
+![HOLA :P](https://github.com/xAntonioR/Apuntes/blob/main/Imagenes/Captura%20de%20pantalla%202026-02-26%20161809.png)
