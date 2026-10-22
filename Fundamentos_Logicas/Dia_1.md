@@ -33,3 +33,5 @@
 * Python
 * C++
 
+## ¿Cómo Comunicarnos con el Computador?
+*Para esto necesitamos la ayuda de traductores, encargados de pasar el lenguaje de alto nivel comprensible para el programador a lenguaje de máquina ( 0,1)
