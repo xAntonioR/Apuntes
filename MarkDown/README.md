@@ -57,8 +57,7 @@ Ideal para organizar notas o pasos a seguir en un proyecto:
 [![Alt text](https://img.youtube.com/vi/Mmw-PpWhKFg/0.jpg)](https://www.youtube.com/watch?v=Mmw-PpWhKFg&list=RDMmw-PpWhKFg&start_radio=1) <br> <br>
 
 ![HOLA :P](https://github.com/xAntonioR/Apuntes/blob/main/Imagenes/Captura%20de%20pantalla%202026-02-26%20161809.png) <br>
-<br>
-*Otra alternativa Copiar y pegar (Ctrl+c - Ctrl+v):
+*Otra alternativa Copiar y pegar (Ctrl+c - Ctrl+v): <br>
 <img width="536" height="446" alt="descarga (1)" src="https://github.com/user-attachments/assets/e699f0d2-7bf2-4ced-84c9-20875ccb9a67" />
 
 
