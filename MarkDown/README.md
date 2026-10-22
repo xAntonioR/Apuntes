@@ -39,7 +39,7 @@ Ideal para organizar notas o pasos a seguir en un proyecto:
 2. Segundo paso
 ```
 * Tareas Interactivas (Checklist): Excelente para organizar pendientes en github.
-```Markdown
+
 - [X] Tarea Completada
 - [ ] Tarea Pendiente
-```
+
