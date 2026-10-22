@@ -61,6 +61,7 @@ Ideal para organizar notas o pasos a seguir en un proyecto:
 <img width="536" height="446" alt="descarga (1)" src="https://github.com/user-attachments/assets/e699f0d2-7bf2-4ced-84c9-20875ccb9a67" />
 
 # *PRUEBA VISUAL DE COFIGO*
+```HTML
 
 <!DOCTYPE html>
 <html>
@@ -78,6 +79,6 @@ Ideal para organizar notas o pasos a seguir en un proyecto:
     </div>
     </body> 
 </html>
-
+```
 
 
