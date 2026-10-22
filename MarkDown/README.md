@@ -54,4 +54,4 @@ Ideal para organizar notas o pasos a seguir en un proyecto:
 
 # *ENLACE DE VIDEO<br>*
 Tráiler de diseño: ORA por OneTap/ Valorant <br>
-[![Alt text](https://img.youtube.com/vi/c-6V50oD_nQ/0.jpg)](https://www.youtube.com/watch?v=c-6V50oD_nQ) <br> <br>
+[![Alt text](https://img.youtube.com/vi/c-6V50oD_nQ/0.jpg)](https://www.youtube.com/watch?v=Mmw-PpWhKFg&list=RDMmw-PpWhKFg&start_radio=1) <br> <br>
