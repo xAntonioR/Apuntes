@@ -51,7 +51,29 @@ print("Hola Mundo")
   4. Máximo 15 caracteres
   ***Guías Visuales:***
      <img width="702" height="577" alt="correcto" src="https://github.com/user-attachments/assets/262611e2-ec98-4278-bc62-72471f8e7cf4" />
+     ---
      <img width="927" height="454" alt="palabras rese" src="https://github.com/user-attachments/assets/3d27e4e2-d682-4388-8717-ac4d8737e588" />
+
+  * Otras Asignaciones:
+    * Asigancioón en la misma línea:
+      ```Markdown
+      base = 5; altura = base + 2, area = base * altura
+      ```
+    * Asignación múltiple:
+      ```Markdown
+      base, altura, color = 5, 7, 'rojo'
+      ```
+    * Asignación del mismo valor:
+      ```Markdown
+      base = altura = 2.5
+      ```
+    * Asignación de intercambio:
+    <img width="330" height="96" alt="intercambio" src="https://github.com/user-attachments/assets/d2300981-096e-4dbe-a484-4542cf397cf1" />
+
+      
+      
+
+   
 
      
 
