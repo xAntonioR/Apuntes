@@ -6,4 +6,4 @@
 ### Tipos Básicos de Datos:
 
 * Numéricos: <br>
-*** Existen dos tipos de datos numéricos, los enteros (int) y los flotantes (float) ***
+***Existen dos tipos de datos numéricos, los enteros (int) y los flotantes (float)***
