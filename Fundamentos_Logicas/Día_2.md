@@ -34,6 +34,7 @@ print("Hola Mundo")
      print("Actualemnte tengo: ")
      print(edad)
      print("Mi Nacionalidad es: ")
+     print(nacionalidad)
      nacionalidad = "España"
      print("En 4 años tendre la siguiente nacionalidad")
      print(nacionalidad)
@@ -47,7 +48,12 @@ print("Hola Mundo")
   1. Elegir un nombre que represente el dato a guada
   2. Nombres que contengan más de una palabra se debe utilizar una mayúscula en al inicio de cada palabra distinta sin espacios o un guion bajo.
   3. No iniciar con Mayúscula
- 4. Máximo 15 caracteres
+  4. Máximo 15 caracteres
+  ***Guías Visuales:***
+     <img width="702" height="577" alt="correcto" src="https://github.com/user-attachments/assets/262611e2-ec98-4278-bc62-72471f8e7cf4" />
+     <img width="927" height="454" alt="palabras rese" src="https://github.com/user-attachments/assets/3d27e4e2-d682-4388-8717-ac4d8737e588" />
+
+     
 
    
      
