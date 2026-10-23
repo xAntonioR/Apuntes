@@ -42,7 +42,7 @@ print("Hola Mundo")
       ```
   * Reglas:
     * No debe iniciar con un número
-    * No debe ser una palabra reservada de lenguaje de programación aplicado (Python) como los siguientes: pring, if, elfe, etc...
+    * No debe ser una palabra reservada de lenguaje de programación aplicado (Python) como los siguientes: pring, if, else, etc...
  
   * Buenas Practicas: <br>
     * Elegir un nombre que represente el dato a guada
