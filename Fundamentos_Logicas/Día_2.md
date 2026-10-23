@@ -23,8 +23,8 @@ print("Hola Mundo")
 > Tener en cuenta que al representar un número en comillas ya sean simples o dobles este pierde su valor numérico y pasa a obtener valor de cadena de caracteres . <br>
 
 ## Variables
-* Una caja invisible en la que se pueden almacenar datos, consultarlos y cambiarlos, he aquí su nombre dado que el contenido puede variar y no es absoluto.
-  1.Nombre:
+* Una caja invisible en la que se pueden almacenar datos, consultarlos y cambiarlos, he aquí su nombre dado que el contenido puede variar y no es absoluto. <br>
+  1. *Nombre:*
      ```PY
      nombre = "Antonio Navarro"
      edad = 25
