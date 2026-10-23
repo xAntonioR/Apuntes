@@ -49,6 +49,7 @@ print("Hola Mundo")
   2. Nombres que contengan más de una palabra se debe utilizar una mayúscula en al inicio de cada palabra distinta sin espacios o un guion bajo.
   3. No iniciar con Mayúscula
   4. Máximo 15 caracteres
+     <br>
   ***Guías Visuales:***
      <img width="702" height="577" alt="correcto" src="https://github.com/user-attachments/assets/262611e2-ec98-4278-bc62-72471f8e7cf4" />
      ---
