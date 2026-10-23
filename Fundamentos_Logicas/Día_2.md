@@ -40,7 +40,7 @@ print("Hola Mundo")
   1. No debe iniciar con un número
   2. No debe ser una palabra reservada de lenguaje de programación aplicado (Python) como los siguientes: pring, if, elfe, etc...
  <br>
- * Buenas Practicas:
+ * Buenas Practicas: <br>
   1. Elegir un nombre que represente el dato a guada
   2. Nombres que contengan más de una palabra se debe utilizar una mayúscula en al inicio de cada palabra distinta sin espacios o un guion bajo.
   3. No iniciar con Mayúscula
