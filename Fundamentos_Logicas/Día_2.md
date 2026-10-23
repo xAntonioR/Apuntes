@@ -45,12 +45,12 @@ print("Hola Mundo")
   2. No debe ser una palabra reservada de lenguaje de programación aplicado (Python) como los siguientes: pring, if, elfe, etc...
  
   * Buenas Practicas: <br>
-  1. Elegir un nombre que represente el dato a guada
-  2. Nombres que contengan más de una palabra se debe utilizar una mayúscula en al inicio de cada palabra distinta sin espacios o un guion bajo.
-  3. No iniciar con Mayúscula
-  4. Máximo 15 caracteres
+    * Elegir un nombre que represente el dato a guada
+    * Nombres que contengan más de una palabra se debe utilizar una mayúscula en al inicio de cada palabra distinta sin espacios o un guion bajo.
+    * No iniciar con Mayúscula
+    * Máximo 15 caracteres
      <br>
-  ***Guías Visuales:***
+  ***Guías Visuales:*** <br>
      <img width="702" height="577" alt="correcto" src="https://github.com/user-attachments/assets/262611e2-ec98-4278-bc62-72471f8e7cf4" />
      ---
      <img width="927" height="454" alt="palabras rese" src="https://github.com/user-attachments/assets/3d27e4e2-d682-4388-8717-ac4d8737e588" />
