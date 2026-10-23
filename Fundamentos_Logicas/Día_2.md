@@ -24,7 +24,7 @@ print("Hola Mundo")
 
 ## Variables
 * Una caja invisible en la que se pueden almacenar datos, consultarlos y cambiarlos, he aquí su nombre dado que el contenido puede variar y no es absoluto.
-  1. Nombre:
+  1.Nombre:
      ```PY
      nombre = "Antonio Navarro"
      edad = 25
