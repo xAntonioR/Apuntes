@@ -28,13 +28,16 @@ print("Hola Mundo")
      ```PY
      nombre = "Antonio Navarro"
      edad = 25
-     pais = "Perú"
+     nacionalidad = "Perú"
      print("Mi Nombre es: ")
      print(nombre)
      print("Actualemnte tengo: ")
      print(edad)
-     print("Mi país de Origen es: ")
-     print(país)
+     print("Mi Nacionalidad es: ")
+     nacionalidad = "España"
+     print("En 4 años tendre la siguiente nacionalidad")
+     print(nacionalidad)
+     
       ```
   * Reglas:
   1. No debe iniciar con un número
