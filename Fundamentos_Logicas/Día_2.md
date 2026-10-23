@@ -15,5 +15,12 @@
 ***Este tipo de datos son llamados booleanos (bool) estos representan los valores de verdad: verdadero (True) o falso (False).*** <br>
 
 * Cadena de Caracteres (String): <br>
+*** Estas son llamadas str (String) se refiere a texto, expresiones formadas por caracteres, se pueden representar por comillas simples o dobles:
+```PY
+print("Hola Mundo")
+```
+> Cadena de caracteres dentro de comillas dobles (***Hola Mundo***)
+
+
 
   
