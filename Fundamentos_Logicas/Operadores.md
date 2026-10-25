@@ -1,7 +1,5 @@
 # Operadores <br>
  * Los operadores son símbolos especiales que nos permiten realizar operaciones en variables y valores. Python proporciona diferentes tipos de operadores para realizar operaciones aritméticas, comparaciones y operaciones lógicas:
-<br>
-<br>
 ## Aritméticos
 <br>
 <br>
