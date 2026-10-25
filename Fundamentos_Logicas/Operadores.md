@@ -2,6 +2,7 @@
 * Los operadores son símbolos especiales que nos permiten realizar operaciones en variables y valores. Python proporciona diferentes tipos de operadores para realizar operaciones aritméticas, comparaciones y operaciones lógicas:
 <br>
   ## Aritméticos <br>
+  <br>
 * Los operadores aritméticos se utilizan para realizar operaciones matemáticas básicas. Los principales operadores aritméticos en Python son:
   * Suma (+): suma dos valores.
   * Resta (-): Resta el segundo valor del primero.
