@@ -3,9 +3,9 @@
 ## Aritméticos
 
  * Los operadores aritméticos se utilizan para realizar operaciones matemáticas básicas. Los principales operadores aritméticos en Python son:
-1. Suma (+): suma dos valores.
-2. Resta (-): Resta el segundo valor del primero.
-3. Multiplicación (+): multiplica dos valores.
+   * Suma (+): suma dos valores.
+   * Resta (-): Resta el segundo valor del primero.
+   * Multiplicación (+): multiplica dos valores.
 4. División (/): divide el primer valor por el segundo y devuelve el resultado en tipo de dato numérico flotante (float).
 5. División entera (//): divide el primer valor por el segundo y devuelve el resultado en tipo de dato numérico entero (int) descartándose la parte decimal.
 6. Módulo (%): devuelve el resto de la división entre el primer valor y el segundo.
