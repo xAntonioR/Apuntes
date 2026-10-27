@@ -10,11 +10,11 @@
        instrucciones
    ```
    ***Ejemplo***
-```PY
+   ```PY
    edad =18
    if edad >= 18:
       print ("Eres mayor de edad.")
-```
+   ```
 >En este ejemplo, si la variable edad es mayor o igual a 18, se ejecutará el bloque de código dentro de if y se imprimirá el mensaje "Eres mayor de edad."
 ---
  * IF-ELSE
@@ -32,7 +32,7 @@
 ---
  * IF-ELIF-ELSE
    * La estructura if-elif-else nos permite especificar múltiples condiciones y bloques de código alternativos. La sintaxis básica es la siguiente:
-  ```PY
+   ```PY
      if condicion1:
 
         # Bloque de código a ejecutar si la condicion1 es verdadera
@@ -47,7 +47,7 @@
 
         # Bloque de código a ejecutar si ninguna condición anterior es verdadera
         instrucciones
-  ```
+   ```
    ***Ejemplo***
    ```PY
    calificacion = 85
