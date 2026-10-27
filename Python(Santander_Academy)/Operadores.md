@@ -33,7 +33,7 @@ exponenciacion = a ** b   # 1000
    * Mayor o igual que (>=): devuelve True si el primer valor es mayor o igual que el segundo.
    * Menor o igual que (<=): devuelve True si el primer valor es menor o igual que el segundo.
 ***Ejemplos***
-```Markdown
+```PY
 a = 10
 b = 3
 
@@ -51,7 +51,7 @@ menor o igual = a <= b   # False
    * OR (or): devuelve True si al menos una de las condiciones es verdadera.
    * NOT (not): invierte el valor de una condición, devuelve True si la condición es falsa y False si la condición es verdadera.
 ***Ejemplos***
-```Markdown
+```PY
 a = 10
 b = 3
 
