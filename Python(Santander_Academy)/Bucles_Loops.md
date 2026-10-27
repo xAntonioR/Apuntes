@@ -74,7 +74,7 @@
           pass
    ```
 > En este ejemplo, el bucle for itera sobre los números del 0 al 4, pero no se realiza ninguna acción dentro del bucle debido a la instrucción pass. Esto puede ser útil cuando se está desarrollando un programa y se desea reservar un bloque de código para implementarlo más adelante.
-> <img width="596" height="284" alt="image" src="https://github.com/user-attachments/assets/458e0adb-1edc-4dad-9b34-dc8b0bbef6e0" />
+<img width="596" height="284" alt="image" src="https://github.com/user-attachments/assets/458e0adb-1edc-4dad-9b34-dc8b0bbef6e0" />
 
 
  
