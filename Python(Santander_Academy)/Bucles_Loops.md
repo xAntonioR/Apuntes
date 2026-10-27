@@ -78,7 +78,10 @@
 
 ***Conclusión***
 ```Markdown
-   Las estructuras de control son herramientas poderosas que nos permiten controlar el flujo de ejecución de nuestros programas. Con las estructuras condicionales (if, if-else, if-elif-else) podemos tomar decisiones basadas en condiciones, mientras que con los bucles (for, while) podemos repetir bloques de código varias veces. Además, las instrucciones break, continue y pass nos brindan un control adicional sobre el comportamiento de los bucles.
+   Las estructuras de control son herramientas poderosas que nos permiten controlar el flujo de ejecución de
+nuestros programas. Con las estructuras condicionales (if, if-else, if-elif-else) podemos tomar decisiones
+ basadas en condiciones, mientras que con los bucles (for, while) podemos repetir bloques de código varias veces.
+ Además, las instrucciones break, continue y pass nos brindan un control adicional sobre el comportamiento de los bucles.
 ```
    
 
