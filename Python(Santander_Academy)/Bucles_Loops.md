@@ -16,3 +16,4 @@
           for fruta in frutas:
           print(fruta)
        ```
+     >En este ejemplo, el bucle ***for***  
