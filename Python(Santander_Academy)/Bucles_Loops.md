@@ -75,12 +75,11 @@
    ```
 > En este ejemplo, el bucle for itera sobre los números del 0 al 4, pero no se realiza ninguna acción dentro del bucle debido a la instrucción pass. Esto puede ser útil cuando se está desarrollando un programa y se desea reservar un bloque de código para implementarlo más adelante.
 <img width="596" height="284" alt="image" src="https://github.com/user-attachments/assets/458e0adb-1edc-4dad-9b34-dc8b0bbef6e0" />
-
+<br>
 ***Conclusión***
 ```Markdown
-   Las estructuras de control son herramientas poderosas que nos permiten controlar el flujo de ejecución de
-   nuestros programas. Con las estructuras condicionales (if, if-else, if-elif-else) podemos tomar decisiones
-   basadas en condiciones, mientras que con los bucles (for, while) podemos repetir bloques de código varias veces.
+   Las estructuras de control son herramientas poderosas que nos permiten controlar el flujo de ejecución de nuestros programas. Con las estructuras condicionales
+   (if, if-else, if-elif-else) podemos tomar decisionesbasadas en condiciones, mientras que con los bucles (for, while) podemos repetir bloques de código varias veces.
    Además, las instrucciones break, continue y pass nos brindan un control adicional sobre el comportamiento de los bucles.
 ```
    
