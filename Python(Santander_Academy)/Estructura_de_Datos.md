@@ -51,3 +51,5 @@
         frutas.reverse()
         print(frutas)  # Imprime ["uva", "pera", "manzana"]
      ```
+ ### Listas de Compresión
+  
