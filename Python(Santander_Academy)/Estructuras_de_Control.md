@@ -50,19 +50,19 @@
    ```
    ***Ejemplo***
    ```PY
-   calificacion = 85
+     calificacion = 85
 
 
-   if calificacion >= 90:
-      print ("Excelente")
+     if calificacion >= 90:
+        print ("Excelente")
 
-   elif calificacion >= 80:
-      print ("Muy bueno")
+     elif calificacion >= 80:
+        print ("Muy bueno")
 
-   elif calificacion >= 70:
-      print ("Bueno")
+     elif calificacion >= 70:
+        print ("Bueno")
 
-   else:
-      print ("Necesita mejorar")
+     else:
+        print ("Necesita mejorar")
    ```
 >En este ejemplo, se evalúan múltiples condiciones en orden. Si la variable calificación es mayor o igual a 90, se imprime "Excelente". Si no se cumple la primera condición, pero calificación es mayor o igual a 80, se imprime "Muy bueno". Si no se cumplen las condiciones anteriores, pero calificación es mayor o igual a 70, se imprime "Bueno". Si ninguna de las condiciones anteriores es verdadera, se ejecuta el bloque else y se imprime "Necesita mejorar". 
