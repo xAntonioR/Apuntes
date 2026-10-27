@@ -35,6 +35,8 @@
        ```
      >En este ejemplo, el bucle while se ejecuta mientras la variable contador sea menor que 5. En cada iteración, se imprime el valor de contador y luego se incrementa en 1 mediante la instrucción contador += 1. El bucle se detendrá cuando contador alcance el valor de 5.
   >Es importante tener cuidado al usar el bucle while, ya que, si la condición nunca se vuelve falsa, el bucle se ejecutará indefinidamente, lo que se conoce como un bucle infinito.
+<img width="1024" height="576" alt="0_QIacNZirrdkOPE62" src="https://github.com/user-attachments/assets/3c76b502-173b-47aa-9392-42c63a6fbadf" />
+
 ---
 # CONTROL DE BUCLES
  * Python proporciona algunas instrucciones especiales para controlar el flujo de ejecución dentro de los bucles:
