@@ -17,3 +17,16 @@
   ```
 >En este ejemplo, si la variable edad es mayor o igual a 18, se ejecutará el bloque de código dentro de if y se imprimirá el mensaje "Eres mayor de edad."
 ---
+ * IF-ELSE
+   * La estructura if-else nos permite especificar n bloque de código alternativo que se ejecutará si la condición de if es falsa. La sintaxis básica es la siguiente:
+   ```PY
+     edad = 15
+
+     if edad >= 18:
+        print ("Eres mayor de edad.")
+
+     else:
+        print ("eres menor de edad.")
+   ```
+   >En este ejemplo, si la variable edad es mayor o igual a 18, se ejecutará el bloque de código dentro del if y se imprimirá el mensaje "Eres mayor de edad." De lo contrario, se ejecutará el bloque de código dentro del else y se imprimirá el mensaje "Eres menor de edad."
+---
