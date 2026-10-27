@@ -27,3 +27,6 @@
    print (mi_tupla.index(2, 2))   #Salida: 3
    print (mi_tupla.index(2, 2, 4))   #Salida: 3
 ```
+<img width="465" height="473" alt="image" src="https://github.com/user-attachments/assets/77f69533-7309-4d8d-988c-ef19970ee1ad" />
+
+---
