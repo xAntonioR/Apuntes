@@ -1,4 +1,5 @@
 # FUNDAMENTOS DE LA PROGRAMACION (Python)
+<img width="536" height="154" alt="Captura de pantalla 2026-10-27 023439" src="https://github.com/user-attachments/assets/6ab281c5-695d-4252-ae07-7218b3a47491" />
 ## ¿Qué es una Computadora?
 
 * Dispositivo para ejecutar programas a gran velocidad siempre y cuando los pasos compilados sean dados de forma precisa
