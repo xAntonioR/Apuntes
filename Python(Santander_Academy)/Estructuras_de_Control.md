@@ -15,3 +15,5 @@
    if edad >= 18:
       print ("Eres mayor de edad.")
   ```
+>En este ejemplo, si la variable edad es mayor o igual a 18, se ejecutará el bloque de código dentro de if y se imprimirá el mensaje "Eres mayor de edad."
+---
