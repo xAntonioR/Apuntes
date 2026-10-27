@@ -34,9 +34,9 @@
               contador += 1
        ```
      >En este ejemplo, el bucle while se ejecuta mientras la variable contador sea menor que 5. En cada iteración, se imprime el valor de contador y luego se incrementa en 1 mediante la instrucción contador += 1. El bucle se detendrá cuando contador alcance el valor de 5.
-  >Es importante tener cuidado al usar el bucle while, ya que, si la condición nunca se vuelve falsa, el bucle se ejecutará indefinidamente, lo que se conoce como un bucle infinito.
-<img width="673" height="341" alt="image" src="https://github.com/user-attachments/assets/3fc3753b-7cc9-4575-92a0-5cc4ad3e8a10" />
+    <img width="673" height="341" alt="image" src="https://github.com/user-attachments/assets/1f5641d2-a9dd-4919-8810-58a7f5b07da5" />
 
+  >Es importante tener cuidado al usar el bucle while, ya que, si la condición nunca se vuelve falsa, el bucle se ejecutará indefinidamente, lo que se conoce como un bucle infinito.
 
 ---
 # CONTROL DE BUCLES
