@@ -11,7 +11,7 @@
    * Módulo (%): devuelve el resto de la división entre el primer valor y el segundo.
    * Exponencianión (**): eleva el primer valor a la potencia del segundo.
 ***Ejemplos***
-```Markdown
+  ```PY
 a = 10
 b =3
 
