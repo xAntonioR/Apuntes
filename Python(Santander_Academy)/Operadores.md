@@ -61,4 +61,6 @@ resultado_or = (a > 15) or (b < 5)   # True
 resultado_not = not (a > 5)   # False
 ```
 >Puedes utilizar estos operadores para realizar cálculos, tomar decisiones basadas en comparaciones y combinar condiciones lógicas en tus programas.
-   
+<br>
+   <img width="334" height="254" alt="tutorial-excel-2010-tipos-de-operadores-en-excel-05" src="https://github.com/user-attachments/assets/701e314e-b0a3-4433-8347-ee09232b5bb0" />
+
