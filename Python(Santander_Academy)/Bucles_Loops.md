@@ -1,5 +1,6 @@
 # Bucles/Loops
- * Los bucles nos permiten repetir un bloque de código varias veces. En Python, los bucles más comunes son los siguientes: <br>
+ * Los bucles nos permiten repetir un bloque de código varias veces. En Python, los bucles más comunes son los siguientes:
+<br>
    * FOR
      * El bucle for se utiliza para iterar sobre una secuencia (como una lista, una tupla o una cadena) o cualquier objeto iterable. La sintaxis básica es la siguiente:
        ```PY
