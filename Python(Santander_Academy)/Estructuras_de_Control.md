@@ -4,4 +4,14 @@
 * Las estructuras condicionales nos permiten ejecutar diferentes bloques de código según se cumpla o no no determinada condición. En Python, las estructuras condicionales más utilizadas son if, if-else e if-elif-else.
   * IF
     * La estructuras if se utiliza para ejecutar un bloque de código si la condición es verdadera. La sintaxis básica es la sigiente:
-   
+   ```Markdown
+    if condición:
+       # Bloque de código a ejecutar si la condición es verdadera
+       instrucciones
+   ```
+   ***Ejemplo***
+  ```Markdown
+   edad =18
+   if edad >= 18:
+      print ("Eres mayor de edad.")
+  ```
