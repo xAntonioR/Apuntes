@@ -29,3 +29,4 @@
       print(persona)  # Imprime {"nombre": "Juan", "edad": 25, "ciudad": "Madrid", "profesion": "Ingeniero"}
    ```
   
+<img width="428" height="405" alt="image" src="https://github.com/user-attachments/assets/d250a9d1-c127-4eec-8d7e-e3dac2641b6f" />
